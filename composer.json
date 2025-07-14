@@ -1,0 +1,14 @@
+{
+  "name": "bojaghi/dictionary",
+  "description": "Additional dictionary for spell checking",
+  "homepage": "https://github.com/bojaghi/dictionary",
+  "type": "library",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "changwoo",
+      "email": "ep6tri@hotmail.com"
+    }
+  ],
+  "version": "1.0.0"
+}
