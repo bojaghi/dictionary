@@ -238,6 +238,7 @@ uninstall
 unserialize
 unserialized
 unslash
+untrailingslashit
 untrashed
 urldecode
 urlencode
